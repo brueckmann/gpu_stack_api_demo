@@ -3,7 +3,7 @@
 ### Steps
 
 1. Create new virtual environment `python -m venv .venv`
-2. Activate the virtual environment `source .venv/Scripts/activate` (on Windows) and `source .venv/bin/activate` on MacOS
+2. Activate the virtual environment `source .venv/Scripts/activate` (on Windows Git Bash) or `source .venv/bin/activate` (on MacOS/Linux)
 3. Install requirements with `pip install -r requirements.txt`
 4. Login to [GPU Stack](https://gpustack.unibe.ch/)
 5. Create API KEY by clicking on your account on the bottom left with three dots.
