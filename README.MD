@@ -9,4 +9,4 @@
 5. Create API KEY by clicking on your account on the bottom left with three dots.
 6. Create a .env by following the .env.example and replace the value of the API_KEY.
 7. Run the `test.ipynb`
-6. [Documentation that is compatible with Openai API](https://docs.gpustack.ai/latest/user-guide/openai-compatible-apis/)
+6. [Documentation that is compatible with Openai API](https://docs.gpustack.ai/latest/integrations/inference-apis/?h=openai+compatible+apis)
